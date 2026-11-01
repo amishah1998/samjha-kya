@@ -1,0 +1,227 @@
+# Facts inventory for deck.py: one line per heading, key fact, number or recommendation in the PDF.
+# p<PDF page> | CORE, SUPPORTING or MINOR | fact | card id(s), or LEFT OUT: the deck's left_out entry and why.
+# Card ids are c<chapter>-<n> as printed by build.py; 'toc' is the cover.
+p7 | SUPPORTING | You should spend about one-third of your time sleeping. | c1-2
+p7 | CORE | Sleep is not 'down time': vital tasks during sleep keep you healthy; brain forms pathways for learning, memory, insight. | c1-2, c1-3
+p7 | CORE | Without enough sleep you can't focus, pay attention or respond quickly; may cause mood problems. | c3-4, c3-5
+p7 | CORE | Chronic lack of sleep raises risk of obesity, diabetes, cardiovascular disease and infections. | c3-7
+p8 | MINOR | 24/7 world (work hours, entertainment) makes people cut back on sleep. | LEFT OUT: Sleep in 1910, the 24/7 world, the share of sleepy adults, and screens shortening children's sleep (p. 8): background trends; the deck keeps the advice: 7 to 8 hours, screens out of the bedroom
+p8 | CORE | Myth: you can learn to get by on little sleep (<6 h). Adults need at least 7 to 8 hours a night. | c1-11, c1-13
+p8 | SUPPORTING | In 1910 most people slept 9 hours; now average adult sleeps fewer than 7. | LEFT OUT: Sleep in 1910, the 24/7 world, the share of sleepy adults, and screens shortening children's sleep (p. 8): background trends; the deck keeps the advice: 7 to 8 hours, screens out of the bedroom
+p8 | SUPPORTING | More than one-third of adults report daytime sleepiness severe enough to interfere with work, driving, social life a few days a month. | LEFT OUT: Sleep in 1910, the 24/7 world, the share of sleepy adults, and screens shortening children's sleep (p. 8): background trends; the deck keeps the advice: 7 to 8 hours, screens out of the bedroom
+p8 | SUPPORTING | Children's and teens' sleep is shorter than recommended; linked to electronic media exposure. | LEFT OUT: Sleep in 1910, the 24/7 world, the share of sleepy adults, and screens shortening children's sleep (p. 8): background trends; the deck keeps the advice: 7 to 8 hours, screens out of the bedroom
+p8 | MINOR | Up to 70 million Americans affected by chronic sleep loss or disorders; $16B health care, $50B lost productivity per year. | LEFT OUT: US numbers and costs (p. 8, 39, 46, 53, 56), including apnea in about 3% of US children and 10% of over-65s (p. 46): counts of Americans affected and dollar costs are US-only figures that do not change what a reader should do
+p9 | SUPPORTING | Many sleep disorders go unrecognized and untreated; tell your doctor what you experience. | c2-2, c2-13
+p10 | CORE | Sleep has distinct stages that cycle through the night in predictable patterns; restedness depends on total time and timing of stages. | c1-4
+p10 | SUPPORTING | Brain and body stay active during sleep; each stage linked to a type of brain wave. | c1-3, c1-4
+p10 | CORE | Two types: REM and non-REM (three stages). Sleep begins with non-REM. | c1-4, c1-1
+p10 | CORE | Stage 1: light sleep, easily woken, eyes move slowly, muscles relax, heart and breathing slow. | c1-4, c1-3
+p10 | CORE | Stage 2: slower brain waves with bursts of rapid waves; about half the night is spent here. | c1-6, c1-4
+p10 | SUPPORTING | Stage 3: extremely slow 'delta' waves. | LEFT OUT: Delta waves, deep sleep coming mostly early in the night, REM rebound, why we dream and when we remember dreams (p. 10 to 12): brain-wave and dream research; the stages, their order and shares, and what each stage does are on cards
+p11 | CORE | Stage 3 is deep, very hard to wake from; the 'restorative' stage needed to feel rested. | c1-5, c1-4
+p11 | MINOR | Bedwetting and sleepwalking in children tend to happen in stage 3. | LEFT OUT: Bedwetting and sleepwalking happen in deep sleep (p. 11): a side note on timing; sleepwalking itself, and when to see a doctor about it, are on two cards
+p11 | SUPPORTING | Stage 3 occurs soon after falling asleep, mostly in first half of night. | c1-4 (part LEFT OUT: Delta waves, deep sleep coming mostly early in the night, REM rebound, why we dream and when we remember dreams (p. 10 to 12): brain-wave and dream research; the stages, their order and shares, and what each stage does are on cards)
+p11 | CORE | REM: eyes move rapidly, breathing irregular, heart rate and BP rise, dreaming; arm and leg muscles temporarily paralyzed so you don't act out dreams. | c1-6, c1-17
+p12 | CORE | First REM about 60 to 90 minutes after falling asleep; stages repeat; REM gets longer and stage 3 shorter through the night. | c1-4
+p12 | SUPPORTING | If REM is disrupted one night, REM is longer on following nights (rebound). | LEFT OUT: Delta waves, deep sleep coming mostly early in the night, REM rebound, why we dream and when we remember dreams (p. 10 to 12): brain-wave and dream research; the stages, their order and shares, and what each stage does are on cards
+p12 | SUPPORTING | Proportions: almost half in stage 2, about one-fifth each in deep sleep and REM. | c1-6
+p12 | SUPPORTING | Infants spend half or more in REM; drops to one-fifth by later childhood. | c1-6
+p12 | SUPPORTING | REM stimulates learning/memory regions; dreams may reflect brain sorting new info; other stages also needed for learning. | c1-3, c3-12 (part LEFT OUT: That the stages other than REM also help learning; and Delta waves, deep sleep coming mostly early in the night, REM rebound, why we dream and when we remember dreams (p. 10 to 12): brain-wave and dream research; the stages, their order and shares, and what each stage does are on cards)
+p12 | MINOR | Dreams are recalled when you wake briefly or are woken. | LEFT OUT: Delta waves, deep sleep coming mostly early in the night, REM rebound, why we dream and when we remember dreams (p. 10 to 12): brain-wave and dream research; the stages, their order and shares, and what each stage does are on cards
+p13 | CORE | Adenosine builds up in blood while awake, broken down during sleep; helps trigger sleep. | c1-9, c2-19
+p13 | CORE | Sleep debt builds over several short nights; you cannot adapt to less sleep than you need. | c1-9, c1-11
+p13 | CORE | Melatonin, a hormone, makes you feel sleepy at night; part of the biological clock. | c1-7
+p13 | CORE | Biological clock is a small bundle of brain cells controlled by cues like light through the eyes. | c1-7, c4-21
+p13 | CORE | Most tired between midnight and 7 a.m.; mild dip 1 to 4 p.m. | c1-7, c1-8
+p13 | SUPPORTING | Nearly one-quarter of workers work non-daytime shifts; more than two-thirds of them have sleep problems. | c4-13
+p14 | SUPPORTING | Tired night-shift workers contributed to Three Mile Island, Chernobyl, Exxon Valdez. | LEFT OUT: Night-shift mistakes behind nuclear plant accidents and an oil spill (p. 14): historic examples; night workers' crash risk, health problems and shift tips are on cards
+p14 | CORE | Night-shift workers at higher crash risk driving home in early morning; one-fifth had a crash or near miss in a year. | c4-13, c2-10
+p14 | SUPPORTING | Night-shift workers more likely to have heart disease, digestive troubles, infertility, emotional problems. | c4-13
+p14 | SUPPORTING | Cytokines (immune hormones) made during infection prompt more sleep; rest improves response to infection. | c3-7 (part LEFT OUT: Cytokines making you sleep more when ill (p. 14): the deck keeps the stronger point that sleep helps fight infection (p. 20, 21))
+p15 | CORE | Jet lag: daytime sleepiness, trouble sleeping, poor concentration, confusion, nausea, irritability. | c1-10
+p15 | CORE | Night shift tips: limit night shifts; add naps and lengthen sleep time; bright lights at work; minimize shift changes. | c4-14
+p15 | SUPPORTING | Night shift tips: remove sound and light from bedroom during day sleep; caffeine only in first part of shift. | c4-14
+p15 | SUPPORTING | Night shift: if all else fails, ask doctor about short-acting sleeping pills. | c4-14
+p16 | SUPPORTING | Adjusting to a new time zone takes several days; for short trips keep original schedule. | c1-10 (part LEFT OUT: Jet-lag preparation steps, short trips, and alcohol and caffeine while travelling (p. 16): travel detail; daylight, catnaps and the 1 to 2 hours a day limit are on cards)
+p16 | CORE | Eastward travel causes worse jet lag than westward (clock adjusts better to a longer day). | c1-10
+p16 | SUPPORTING | Before trip: westward delay bed/wake 20 to 30 min steps; eastward advance wake 10 to 15 min a day; manage light. | LEFT OUT: Jet-lag preparation steps, short trips, and alcohol and caffeine while travelling (p. 16): travel detail; daylight, catnaps and the 1 to 2 hours a day limit are on cards
+p16 | SUPPORTING | On arrival: get lots of outdoor light; short 10 to 15 min catnaps, no long naps. | c1-10
+p16 | SUPPORTING | Jet lag: avoid alcohol (lighter sleep, wake at night); caffeine only in the morning. | LEFT OUT: Jet-lag preparation steps, short trips, and alcohol and caffeine while travelling (p. 16): travel detail; daylight, catnaps and the 1 to 2 hours a day limit are on cards
+p17 | SUPPORTING | Melatonin builds in early evening into first 2 h of sleep, stops mid-night. | c1-7 (part LEFT OUT: Melatonin stopping in the middle of the night (p. 17): fine detail; the melatonin supplement facts are on a card)
+p17 | CORE | Melatonin supplement: OTC, safe for days or weeks, effectiveness controversial, long-term safety unclear. | c6-10, c6-1
+p18 | CORE | Well-rested people learn tasks better and remember better if they sleep after learning. | c3-2
+p18 | SUPPORTING | Needed at least 6 h to improve; 8 h sleepers beat 6 or 7 h sleepers. | c3-3
+p18 | SUPPORTING | Sleep well the night before a mentally challenging task, not just after. | c3-3
+p18 | SUPPORTING | Sleep needed for creative problem-solving: 8 h sleep after task more likely to find a shortcut. (Mary Shelley example.) | LEFT OUT: Creative problem solving and Mary Shelley (p. 18), and sleep and infant brain development (p. 19): study examples; the learning and memory findings they support are on cards
+p19 | SUPPORTING | Sleep forms/strengthens brain-cell pathways; needed for infant brain development. | c1-2 (part LEFT OUT: Creative problem solving and Mary Shelley (p. 18), and sleep and infant brain development (p. 19): study examples; the learning and memory findings they support are on cards)
+p19 | CORE | Lack of sleep slows thinking, hurts focus, causes confusion, faulty decisions and more risk taking, slows reaction time. | c3-4
+p19 | CORE | Sleep-deprived people do as poorly as drunk people on driving simulator. | c3-4
+p19 | CORE | Lack of sleep causes irritability; chronic lack (or untreated disorder) raises depression risk. | c3-5
+p19 | MINOR | Postpartum blues may be partly caused by lack of sleep in new mothers. | c4-12
+p19 | SUPPORTING | Heart rate and BP slow in non-REM; vary in REM; these changes promote cardiovascular health. | c3-6, c1-6
+p20 | CORE | Without enough sleep the nightly BP dip may not occur (insufficient sleep, untreated apnea); important for heart health. | c3-6
+p20 | SUPPORTING | Sleep loss raises stress hormones (adrenaline, cortisol), keeps BP from dipping, raises heart disease risk. | c3-6
+p20 | SUPPORTING | Short sleepers have higher C-reactive protein (inflammation), linked to atherosclerosis. | LEFT OUT: C-reactive protein and hardening of the arteries (p. 20), and a study of women's sleep hours and diabetes (p. 21): a lab marker and a second study; short sleep's heart risk, the blood-sugar study and women snorers' diabetes risk are on cards
+p20 | CORE | Deep sleep triggers growth hormone: growth in children, muscle mass and cell/tissue repair in all. | c3-7
+p20 | SUPPORTING | Sex hormones: puberty and fertility; night-working women at higher miscarriage risk. | c4-12 (part LEFT OUT: sleep hormones' role in puberty and fertility)
+p20 | CORE | Sleep makes more cytokines; lack of sleep reduces ability to fight infections. | c3-7
+p21 | SUPPORTING | Sleep-deprived volunteers made less than half the flu antibodies after vaccine. | c3-8
+p21 | CORE | Sleep regulates appetite: leptin (suppressor) up, ghrelin (stimulant) down during sleep; short sleep linked to obesity and craving high-calorie food. | c3-7
+p21 | SUPPORTING | 5 h sleepers much more likely to become obese than 7 to 8 h sleepers. | c3-8
+p21 | SUPPORTING | Healthy young men on 4 h for 6 nights had insulin/blood-sugar like people developing diabetes. | c3-8
+p21 | SUPPORTING | Women sleeping <7 h more likely to develop diabetes than those sleeping 7 to 8 h. | LEFT OUT: C-reactive protein and hardening of the arteries (p. 20), and a study of women's sleep hours and diabetes (p. 21): a lab marker and a second study; short sleep's heart risk, the blood-sugar study and women snorers' diabetes risk are on cards
+p22 | CORE | Drowsy driving is as dangerous as drunk driving; crashes as deadly; you need not be asleep to be in danger. | c2-10, c3-15
+p22 | SUPPORTING | Alcohol plus sleep loss especially dangerous; teen inexperience plus sleep deprivation is lethal. | c3-16
+p22 | SUPPORTING | One-quarter of New York drivers surveyed had fallen asleep at the wheel; people nod off without knowing (microsleep). | c3-15 (part LEFT OUT: New York drivers who fell asleep at the wheel (p. 22): a US survey; nodding off without knowing it, and the warning signs and tips, are on cards)
+p22 | CORE | Opening a window or turning up the radio won't keep you awake; no substitute for sleep. | c3-15
+p22 | CORE | Warning signs: trouble keeping eyes open or focused, continual yawning, can't recall last few miles. | c2-10
+p23 | CORE | Tip: be well rested; after several short nights it can take several good nights to restore reaction time. | c3-16
+p23 | CORE | Tip: avoid driving midnight to 7 a.m. | c2-10
+p23 | SUPPORTING | Tip: don't drive alone; a companion can help. | c3-16
+p23 | CORE | Tip: frequent breaks; if sleepy, pull off and nap 15 to 20 min. | c2-10, c3-15
+p23 | CORE | Tip: no alcohol; one beer when sleep-deprived = two or three when rested. | c3-16, c2-10, c3-18
+p23 | CORE | Tip: caffeine/cola won't overcome extreme sleepiness or relieve sleep debt. | c3-16, c3-21
+p25 | SUPPORTING | Rats live 2 to 3 years normally; 5 weeks without REM, 2 to 3 weeks without any sleep. | LEFT OUT: Rat studies, 8 to 8.5 hours when unrestricted, needs from 7 to 9 or more hours (p. 25): research detail; the guide's 7 to 8 hours for adults is on cards
+p25 | SUPPORTING | Unrestricted adults sleep 8 to 8.5 h; needs vary from about 7 to 9+ h. | LEFT OUT: Rat studies, 8 to 8.5 hours when unrestricted, needs from 7 to 9 or more hours (p. 25): research detail; the guide's 7 to 8 hours for adults is on cards
+p25 | CORE | Newborns 16 to 18 h; preschoolers 11 to 12 h; school-age and adolescents at least 10 h. | c3-9, c1-11
+p25 | CORE | Puberty shifts teen clocks later; teens need 9 to 10 h but average 7 to 7.5 h because of early school start. | c3-10, c1-11
+p25 | SUPPORTING | With age, less deep sleep; older adults go to bed and wake earlier; lighter sleep. | c3-11, c1-5
+p26 | SUPPORTING | From midlife, more awakenings at night. | LEFT OUT: More waking at night from midlife on (p. 26): a change in sleep pattern, not advice; the older-adults card keeps the causes worth checking, the risks of poor sleep and that the need does not shrink
+p26 | CORE | Many sleep problems are not a natural part of ageing; due to medical conditions, medicines, sleep disorders (apnea, RLS), urination. | c3-11
+p26 | CORE | No evidence older people can get by with less sleep. | c3-11
+p26 | SUPPORTING | Poor sleep in elderly: daytime sleepiness, memory problems, depressed mood, overuse of sleeping pills. | c3-11
+p27 | CORE | Optimal: about 7 to 8 h for adults, at least 10 h for school-age children and teens; similar amounts avoid obesity, diabetes, heart risk. | c3-9
+p27 | CORE | Quality and timing matter as much as quantity; interrupted sleep misses both REM and non-REM. | c3-12
+p27 | CORE | Weekend catch-up does not fully erase sleep debt or undo the week's poor performance. | c3-13, c1-12
+p27 | SUPPORTING | One night of short sleep affects function and mood at least the next day. | c3-13
+p27 | CORE | Short naps (up to an hour) partly make up for lost sleep, but don't substitute for night sleep; naps >20 min cause grogginess; late naps hurt night sleep. | c3-14
+p28 | CORE | Myth 1: body/brain shut down during sleep. False; some processes become more active. | c1-3, c1-13
+p28 | CORE | Myth 2: 1 hour less sleep has no effect. False; affects thinking, reaction, heart, energy, immunity; sleep debt builds. | c3-17
+p28 | CORE | Myth 3: body adjusts quickly. False; clock resets by 1 to 2 h a day at best, can take over a week. | c1-10, c1-13
+p28 | CORE | Myth 4: older people need less sleep. False. | c3-17, c3-11
+p29 | SUPPORTING | Myth 5: one night of extra sleep cures daytime fatigue. False; quality matters; disorders cause poor quality and are treatable. | c2-14, c3-12
+p29 | CORE | Myth 6: weekend catch-up works. False; also shifts clock making Sunday night and Monday morning hard. | c3-13
+p29 | CORE | Myth 7: naps waste time. False; but no naps after 3 p.m., limit to 20 min. | c3-14, c3-17, c7-18
+p30 | SUPPORTING | More than one or two naps a day may signal a sleep disorder. | c3-14
+p30 | CORE | Myth 8: snoring is normal. False; regular snoring linked to sleepiness, diabetes, heart disease; loud snoring may be sleep apnea. | c2-14
+p30 | CORE | Myth 9: sleep-deprived children look sleepy. False; they become hyperactive, irritable, inattentive; may be misdiagnosed as ADHD. | c2-7, c2-14
+p30 | CORE | Myth 10: main cause of insomnia is worry. False; medications, disorders, depression, anxiety, asthma, arthritis; some are 'revved up'. | c6-13, c6-4
+p31 | CORE | Caffeine blocks adenosine receptors, fooling the body; effects take 6 to 8 h to wear off; late-afternoon coffee can stop sleep. | c4-3, c6-18
+p31 | CORE | Nicotine is a stimulant; lighter sleep; heavy smokers wake early from withdrawal. | c4-4
+p31 | CORE | Alcohol helps you fall asleep but prevents deep and REM sleep; you wake when it wears off. | c4-4
+p31 | SUPPORTING | Medicines: decongestants, steroids, headache medicines with caffeine, beta blockers can disrupt sleep. | c4-10, c4-2
+p31 | SUPPORTING | Chronic asthma, bronchitis, arthritis, heart failure, sickle cell anemia disrupt sleep. | c6-4
+p32 | CORE | Psychological disorders and stress disrupt sleep; depression and insomnia cause each other. | c4-11, c3-5
+p32 | SUPPORTING | Menstrual hormones: progesterone induces sleep; drop before period disrupts; menopause and hot flashes cause insomnia. | c4-12
+p32 | SUPPORTING | Large meals or vigorous exercise just before bed delay sleep; daytime exercise improves sleep. | c4-6, c4-10
+p33 | SUPPORTING | Wind-down time helps; hot bath lowers body temperature afterwards, mimicking sleep onset. | c4-9
+p33 | SUPPORTING | Bedroom: remove noise, bright lights, TV, phone, computer; comfortable bed; keep it cool. | c4-7
+p33 | CORE | Tip: stick to a sleep schedule, same bed and wake time each day. | c4-5, c1-12
+p33 | CORE | Tip: exercise at least 30 min most days, not later than 2 to 3 h before bed. | c4-6
+p33 | CORE | Tip: avoid caffeine (coffee, cola, tea, chocolate; up to 8 h) and nicotine. | c4-3, c4-4, c1-12
+p34 | CORE | Tip: avoid alcohol before bed (robs deep and REM sleep, may impair breathing). | c4-4, c1-12
+p34 | SUPPORTING | Tip: avoid large meals and lots of fluids late at night; light snack OK. | c4-10
+p34 | SUPPORTING | Tip: ask doctor or pharmacist whether medicines disrupt sleep, and timing. | c4-10
+p34 | CORE | Tip: no naps after 3 p.m. | c3-14
+p34 | SUPPORTING | Tip: relax before bed; bedtime ritual like reading or music. | c4-9
+p34 | SUPPORTING | Tip: hot bath before bed. | c4-9
+p35 | CORE | Tip: good sleep environment, cool, no screens; turn the clock face away. | c4-7, c1-12
+p35 | CORE | Tip: at least 30 min of natural sunlight a day; morning light; 1 h morning sun if trouble falling asleep. | c4-8
+p35 | CORE | Tip: don't lie in bed awake more than 20 min; get up and do something relaxing. | c4-15, c1-12
+p35 | CORE | Tip: see a doctor if trouble persists or tired despite enough time in bed. | c2-13, c1-12
+p36 | CORE | Frequent loud snoring is often a sign of sleep apnea; may raise cardiovascular disease and diabetes risk. | c5-2, c2-6
+p36 | CORE | Mechanism: narrowed airway at back of mouth/throat/nose; turbulence vibrates soft tissue. | c5-3
+p36 | SUPPORTING | Causes: relaxed palate/tongue/throat, allergies, sinus, overweight, large soft palate, alcohol or sedatives. | c5-3
+p36 | SUPPORTING | About half of adults snore; half of those loudly and frequently; rises with age; more common in some ethnic groups. | c5-3
+p36 | CORE | Not everyone who snores has apnea, but apnea patients typically snore loudly; hallmark: loud snoring with pauses in breathing. | c2-6, c5-14
+p37 | SUPPORTING | Snoring without apnea still adds breathing effort and lowers sleep quality. | c5-4
+p37 | SUPPORTING | Older adults snoring 6 to 7 nights a week twice as likely to be very sleepy; snorers more likely in crashes. | c5-4
+p37 | SUPPORTING | Women who snore regularly twice as likely to get diabetes; snoring may raise BP, heart failure, stroke risk. | c5-4
+p37 | CORE | About one-third of pregnant women start snoring in 2nd trimester; tell your doctor (BP, baby's growth). | c2-9, c4-12
+p37 | SUPPORTING | 10 to 15% of young children snore regularly (enlarged tonsils/adenoids); lower test scores, hyperactivity. | c2-8 (part LEFT OUT: How many children snore, and snoring's link to lower test scores and IQ (p. 37, 38): study detail; the guide's advice to take a snoring child to a doctor is on a card)
+p38 | SUPPORTING | Snoring linked to greater IQ drop than elevated blood lead; poorer grades may persist. | LEFT OUT: How many children snore, and snoring's link to lower test scores and IQ (p. 37, 38): study detail; the guide's advice to take a snoring child to a doctor is on a card
+p38 | CORE | See a doctor if a child snores loudly 3 to 4 times a week, especially with pauses, hyperactivity, sleepiness. | c2-8, c5-19
+p38 | SUPPORTING | Tonsil/adenoid removal often cures children's snoring and apnea. | c2-8
+p38 | CORE | Adult remedies: lose weight, no tobacco, sleep on side, elevate head, treat congestion, no alcohol/sedatives, dental appliances. | c5-10
+p38 | SUPPORTING | No scientific evidence that OTC nasal strips and sprays relieve snoring. | c5-10
+p39 | SUPPORTING | More than 70 sleep disorders affect at least 40 million Americans; $16B medical costs a year. | LEFT OUT: US numbers and costs (p. 8, 39, 46, 53, 56), including apnea in about 3% of US children and 10% of over-65s (p. 46): counts of Americans affected and dollar costs are US-only figures that do not change what a reader should do
+p39 | CORE | Four most common: insomnia, sleep apnea, restless legs syndrome, narcolepsy. | c7-2
+p40 | CORE | See a doctor if signs occur 3 or more nights a week: >30 min to fall asleep, frequent waking, waking too early, unrefreshed after 7 to 8 h. | c2-2, c2-3, c3-22
+p40 | CORE | Signs: falling asleep within 5 min given a chance to nap; snoring, gasping, breathing stops; creepy leg feelings; muscle weakness with emotion; can't move on waking; limb jerks; need stimulants. | c2-4, c2-5
+p40 | CORE | Children with sleep disorders often appear overactive and unfocused rather than sleepy. | c2-7
+p41 | CORE | Definition: trouble falling or staying asleep, or unrefreshing sleep despite opportunity. | c6-2
+p41 | SUPPORTING | Temporary insomnia is common (stress, family, trauma); e.g. half of US adults after 9/11. | c6-2, c6-3 (part LEFT OUT: Insomnia after 11 September 2001 (p. 41), and sedating antidepressants for insomnia (p. 43): a US example and a prescription detail; the cards say to see a doctor before any sleep medicine)
+p41 | CORE | Chronic insomnia: symptoms at least 3 nights a week for more than 1 month. | c6-3
+p41 | CORE | Most chronic insomnia is secondary (due to another disorder or medicine); primary is a distinct disorder. | c6-4
+p41 | SUPPORTING | 30 to 40% of adults have some insomnia symptoms in a year; 10 to 15% chronic; more common with age and in women. | c6-3
+p41 | SUPPORTING | Untreated insomnia can impair quality of life as much as other chronic illnesses. | c6-3
+p41 | CORE | Causes: depression/anxiety (most common), neurological disease, thyroid, arthritis, asthma, medicines, behaviour, other sleep disorders. | c6-4
+p42 | SUPPORTING | Primary insomnia linked to hyperarousal: hormones, body temperature, heart rate, brain waves. | c6-4 (part LEFT OUT: What doctors measure in primary insomnia: hormone levels, body temperature, heart rate and brain waves (p. 42): lab findings a reader cannot check at home; the "revved up" idea and the treatments are on cards)
+p42 | CORE | Diagnosed mainly by sleep history and sleep diary; overnight recording if another disorder suspected. | c6-11
+p42 | CORE | Vicious cycle: anxiety about not sleeping and clock-watching worsens insomnia. | c6-5
+p42 | CORE | Reconditioning: go to bed only when sleepy; if not asleep in 20 min, get up, go to another room, relax, return. | c6-5
+p42 | SUPPORTING | Relaxation therapy: meditation, progressive muscle relaxation, deep breathing. | c6-6
+p43 | CORE | Sleep restriction: limit time in bed to weekly average sleep, then add gradually; naps max 15 to 20 min; don't drive or operate machinery meanwhile. | c6-7
+p43 | CORE | These are part of cognitive behavioural therapy (CBT), effective in most people with chronic insomnia; replaces negative thoughts. | c6-8
+p43 | CORE | Talk to a doctor before using alcohol, OTC or prescription sedatives, or sedating antihistamines; benefits limited, risks, grogginess, lose effect. | c6-9, c2-13
+p43 | SUPPORTING | Sedating antidepressants: effectiveness without depression unknown; significant side effects. | LEFT OUT: Insomnia after 11 September 2001 (p. 41), and sedating antidepressants for insomnia (p. 43): a US example and a prescription detail; the cards say to see a doctor before any sleep medicine
+p44 | CORE | Melatonin and valerian: little/inconclusive evidence; not FDA regulated, safety not monitored. | c6-10
+p44 | CORE | Definition: breathing briefly stops or becomes very shallow during sleep, from upper airway blockage (soft tissue collapses). | c5-5, c2-6
+p44 | CORE | Each pause lasts 10 to 120 seconds, may occur 20 to 30+ times an hour. | c5-5
+p44 | CORE | Oxygen drops; brain wakes you to reopen airway, often with loud snort or choking. | c5-5
+p44 | CORE | Rarely reach deep sleep, so excessive daytime sleepiness; more than triples risk of traffic or work accident. | c5-5, c5-6
+p44 | CORE | Consequences: morning headaches, poor concentration/memory, depression; stress hormones raise BP, risk of heart attack, stroke, irregular heartbeat, heart failure. | c5-6, c2-6
+p46 | SUPPORTING | Untreated apnea raises obesity and diabetes risk. | c5-6
+p46 | SUPPORTING | At least 12 to 18 million US adults; as common as asthma; over half overweight; more common in men; ~3% of children, 10%+ over 65. | c5-8 (part LEFT OUT: US numbers and costs (p. 8, 39, 46, 53, 56), including apnea in about 3% of US children and 10% of over-65s (p. 46): counts of Americans affected and dollar costs are US-only figures that do not change what a reader should do)
+p46 | CORE | More than half of people with apnea are undiagnosed; they don't know breathing stops; bed partners notice. | c5-7
+p46 | CORE | Diagnosis must be confirmed with overnight sleep monitoring. | c5-7
+p47 | CORE | Children with apnea snore, gasp, pause; often agitated/hyperactive rather than sleepy; poor school performance. | c2-8
+p47 | CORE | Risk factors: relaxed throat muscles/tongue, enlarged tonsils/adenoids, overweight (neck fat), head/neck shape, allergy congestion, family history. | c5-8
+p47 | SUPPORTING | Diagnosis: medical history, mouth/throat exam, PSG overnight recording, MSLT. | c5-9, c7-12
+p48 | CORE | Lifestyle: sleep on side; avoid alcohol, smoking, sleeping pills, sedatives (lengthen pauses); lose weight. May be enough for mild apnea. | c5-11
+p48 | CORE | Moderate or severe apnea needs more direct treatment. | c5-11
+p48 | CORE | CPAP is the most effective treatment in adults: mild air pressure via mask keeps airway open; does not breathe for you. | c5-12
+p48 | CORE | Apnea returns if CPAP is stopped or used incorrectly. | c5-12, c5-14, c5-18
+p48 | SUPPORTING | CPAP side effects: dry/stuffy nose, skin irritation, bloating, sore eyes, headaches; work with specialist. | c5-13
+p48 | CORE | No medicine cures sleep apnea; some help residual sleepiness. | c5-13
+p49 | SUPPORTING | Jim's story: not using CPAP caused stroke-like symptoms; a more comfortable machine helped. | c5-12
+p49 | SUPPORTING | Oral appliance (custom mouthpiece by dentist) for mild apnea or loud snoring; needs follow-up sleep study. | c5-13
+p49 | SUPPORTING | Surgery: tonsils/adenoids (esp. children), UPPP for adults, tracheostomy rarely in severe cases. | c5-13 (part LEFT OUT: Adult apnea surgeries (UPPP, tracheostomy) (p. 49), and anticonvulsants or pain relievers for severe restless legs (p. 54): specialist treatment detail decided with a doctor)
+p50 | CORE | Sleep history and sleep log: hours, awakenings, time to fall asleep; partner asked about symptoms. | c6-11
+p50 | CORE | Polysomnogram (PSG): overnight lab recording of brain, eyes, muscles, heart, breathing, oxygen; painless; sometimes at home. | c5-9, c7-12
+p50 | SUPPORTING | MSLT: daytime nap test, 4 to 5 naps of 20 min every 2 h; key for narcolepsy. | c7-12
+p51 | SUPPORTING | Falling asleep in under 5 min or reaching REM quickly in naps suggests a disorder. | c7-12
+p51 | SUPPORTING | Have a sleep specialist interpret PSG/MSLT. | c7-12
+p53 | CORE | RLS: unpleasant prickling/tingling in legs (calves), relieved by moving or massaging; makes falling and staying asleep hard. | c7-3
+p53 | SUPPORTING | Can affect arms; occurs when sitting or lying long (desk, car, movie). | c7-3
+p53 | SUPPORTING | Periodic limb movements in sleep (PLMS) every 5 to 90 s, wake people up. | c2-4 (part LEFT OUT: Periodic limb movements in sleep (PLMS), restless legs behind a third of insomnia after 60, and its link to ADHD symptoms (p. 53): specialist detail; the sign itself (limbs jerking in sleep), who gets restless legs, and the growing-pains mix-up are on cards)
+p53 | SUPPORTING | 5 to 15% of Americans; increases with age; more in women; one-third of insomnia over 60; children, ADHD link; growing pains confusion. | c7-4, c7-13 (part LEFT OUT: Periodic limb movements in sleep (PLMS), restless legs behind a third of insomnia after 60, and its link to ADHD symptoms (p. 53): specialist detail; the sign itself (limbs jerking in sleep), who gets restless legs, and the growing-pains mix-up are on cards)
+p53 | CORE | Often inherited; pregnancy, kidney failure, iron/vitamin-deficiency anemia trigger; iron deficiency leads to low dopamine. | c7-4
+p53 | SUPPORTING | Diagnosis by symptoms and night/rest worsening; ferritin blood test; maybe sleep lab. | c7-4
+p53 | CORE | Treatable but not always curable: dopamine-like drugs or iron give quick improvement; mild cases sedatives or behaviour. | c7-5
+p54 | SUPPORTING | Behavioural: stretching, hot bath, leg massage; avoid caffeine; some antidepressants (SSRIs) may cause RLS. | c7-5
+p54 | SUPPORTING | Iron, B12 or folate if deficient; anticonvulsants or pain relievers for severe cases. | c7-5 (part LEFT OUT: Adult apnea surgeries (UPPP, tracheostomy) (p. 49), and anticonvulsants or pain relievers for severe restless legs (p. 54): specialist treatment detail decided with a doctor)
+p54 | CORE | Main symptom: extreme overwhelming daytime sleepiness even after adequate night sleep; fragmented night sleep. | c7-6
+p54 | CORE | Sleep attacks last seconds to over half an hour, without warning, may cause injury. | c7-6
+p54 | CORE | People with narcolepsy fall directly into REM. | c7-7
+p54 | CORE | Cataplexy: sudden muscle weakness triggered by emotions (anger, surprise, fear, laughter); can cause collapse. | c7-8
+p56 | CORE | Sleep paralysis and vivid dreams on falling asleep or waking. | c7-8
+p56 | SUPPORTING | Up to 350,000 Americans, fewer than 50,000 diagnosed; mistaken for depression, epilepsy, medicine side effects. | c7-9 (part LEFT OUT: US numbers and costs (p. 8, 39, 46, 53, 56), including apnea in about 3% of US children and 10% of over-65s (p. 46): counts of Americans affected and dollar costs are US-only figures that do not change what a reader should do)
+p56 | SUPPORTING | Diagnosed by PSG followed by MSLT (rapid sleep, early REM). | c7-10
+p56 | SUPPORTING | Usually starts in adolescence or early adulthood; 1 in 10 has an affected close relative. | c7-9
+p56 | CORE | Most lack hypocretin (wake-promoting); likely autoimmune destruction of hypocretin cells. | c7-9
+p57 | CORE | Treatment: stimulants for sleepiness; antidepressants/REM suppressors for cataplexy etc.; short naps 10 to 15 min two or three times a day. | c7-10
+p57 | CORE | Parasomnias: confusional arousals, sleep talking, sleep walking, night terrors, sleep paralysis, REM sleep behavior disorder (acting out dreams). | c2-11, c7-11
+p57 | SUPPORTING | Most more common in children, who outgrow them; sleep deprivation can trigger sleepwalking and sleep paralysis. | c2-11, c7-11
+p57 | SUPPORTING | REM behavior disorder from medicines or neurological disorders, more in elderly. | c7-11
+p57 | CORE | Persistent sleep paralysis, sleepwalking, or acting out dreams: talk to a doctor; ensure safety of family members. | c2-11, c7-11
+p59 | CORE | If enough time in bed and still tired or sleepy, you may have a disorder. | c2-2, c2-16
+p59 | CORE | Keep a sleep diary for a week or so: sleep quality/quantity, medicines, alcohol, caffeine, exercise, daytime sleepiness. | c2-12
+p59 | CORE | See doctor if diary shows: >30 min to fall asleep, many/long awakenings, frequent naps, often sleepy or falling asleep at wrong times. | c2-12
+p60 | MINOR | Sample diary fields (bed/wake time, awakenings, caffeine/alcohol times, naps, exercise, sleepiness rating). | c6-12
+p62 | SUPPORTING | Make sure the sleep center/specialist is qualified: AASM accredited centers, ABSM certified specialists. | LEFT OUT: How to find a qualified US sleep centre, research, clinical trials and contacts (p. 62 to 66): US directories and research plans, not advice for readers elsewhere
+p63 | MINOR | NHLBI research priorities: obesity/diabetes/heart risk, new diagnosis methods, genetic/environmental factors. | LEFT OUT: How to find a qualified US sleep centre, research, clinical trials and contacts (p. 62 to 66): US directories and research plans, not advice for readers elsewhere
+p64 | MINOR | Clinical trials vs clinical studies; randomization and placebo. | LEFT OUT: How to find a qualified US sleep centre, research, clinical trials and contacts (p. 62 to 66): US directories and research plans, not advice for readers elsewhere
+p65 | MINOR | Participation: informed consent, benefits, risks, care not affected; clinicaltrials.gov. | LEFT OUT: How to find a qualified US sleep centre, research, clinical trials and contacts (p. 62 to 66): US directories and research plans, not advice for readers elsewhere
+p66 | MINOR | NHLBI and other organization contacts (AASM, ASAA, Narcolepsy Network, NSF, RLS Foundation). | LEFT OUT: How to find a qualified US sleep centre, research, clinical trials and contacts (p. 62 to 66): US directories and research plans, not advice for readers elsewhere
+p3 | MINOR | NIH Publication No. 11-5271, first 2005, revised August 2011. | toc
