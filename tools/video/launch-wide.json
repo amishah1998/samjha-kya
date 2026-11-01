@@ -1,0 +1,8 @@
+{"out": "../../docs/media/samjha-kya-wide.mp4", "gif": "../../docs/media/demo.gif", "gif_width": 720, "size": [1920, 1080],
+ "segments": [
+  {"type": "title", "lines": ["Any topic. Any PDF."], "sub": "Comic flashcards with a desi cast", "code": "/samjha-kya why we procrastinate", "seconds": 1.8},
+  {"type": "deck", "html": "../../examples/procrastination/procrastination.html", "caption": "Same deck, phone and laptop", "layout": "duo", "cards": [{"id": "c1-3", "hold": 2.0}, {"id": "c1-4", "hold": 2.0}]},
+  {"type": "deck", "html": "../../examples/money/money.html", "caption": "Topic: compound interest", "layout": "duo", "cards": [{"id": "c3-3", "hold": 2.2}, {"id": "c1-15", "hold": 1.6, "tap": true, "before_tap": 0.9}]},
+  {"type": "deck", "html": "../../examples/sleep-pdf/sleep.html", "caption": "From a 72-page PDF, every fact cited", "layout": "duo", "cards": [{"id": "c1-5", "hold": 2.0}, {"id": "c2-4", "hold": 1.8}]},
+  {"type": "title", "lines": ["Samjha kya?"], "sub": "Free and open source", "code": "npx skills add amishah1998/samjha-kya", "seconds": 2.2}
+ ]}

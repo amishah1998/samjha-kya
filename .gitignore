@@ -1,0 +1,8 @@
+__pycache__/
+.DS_Store
+examples/*/*.html
+examples/*/scratch/
+examples/*/shots/
+examples/*/source/
+tools/video/frames/
+tools/video/out/
